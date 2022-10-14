@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Practice
+comment0.text=\r\n\ This\ class\ implements\ most\ of\ our\ vocabulary.\ \r\n\r\n\ @author\ (Sahil\ Veeravalli)\r\n\ @version\ (8/29/2022)\r\n
+comment1.params=
+comment1.target=Practice()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Practice\r\n
+comment2.params=x1
+comment2.target=Practice(int)
+comment3.params=
+comment3.target=void\ displayX()
+comment4.params=y
+comment4.target=void\ changeX(int)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=void\ CheckX()
+comment7.params=
+comment7.target=void\ tenValue()
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scan
+comment0.text=\r\n\ This\ class\ implements\ a\ scanner\ to\ get\ use\ input\ from\ terminal\ window\r\n\r\n\ @author\ (Sahil\ Veeravalli)\r\n\ @version\ (9/23/22)\r\n
+comment1.params=
+comment1.target=Scan()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scan\r\n
+comment2.params=s
+comment2.target=void\ expand(java.lang.String)
+numComments=3

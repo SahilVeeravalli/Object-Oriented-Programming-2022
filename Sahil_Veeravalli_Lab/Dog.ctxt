@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ This\ class\ implements\ a\ dog.\r\n\ \r\n\ @author\ (Sahil\ Veeravalli)\ \r\n\ @version\ (9/22/22\r\n
+comment1.params=
+comment1.target=Dog()
+comment1.text=\r\n\ The\ default\ constructor\ should\ set\ \r\n\ name\ to\ Pluto,\ color\ to\ brown,\ weight\ to\ 25\ and\ immunized\ to\ false.\r\n
+comment2.params=name1\ color1\ weight1\ immunized1
+comment2.target=Dog(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=int\ getWeight()
+comment6.params=
+comment6.target=boolean\ getImmunized()
+comment7.params=weight
+comment7.target=void\ setWeight(int)
+comment8.params=immunized
+comment8.target=void\ setImmunized(boolean)
+comment9.params=
+comment9.target=void\ dogDetails()
+numComments=10

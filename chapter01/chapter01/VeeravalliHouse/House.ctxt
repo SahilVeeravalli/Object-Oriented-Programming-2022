@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ This\ Class\ uses\ shapes\r\n\r\n\ @author\ (Sahil\ Veeravalli)\r\n\ @version\ (8/30/22)\r\n
+comment1.params=
+comment1.target=House()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ House\r\n
+comment2.params=
+comment2.target=void\ draw1()
+comment3.params=
+comment3.target=void\ draw2()
+numComments=4

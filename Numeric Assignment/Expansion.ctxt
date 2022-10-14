@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Expansion
+comment0.text=\r\n\ This\ class\ expands\ the\ string\r\n\r\n\ @author\ (Sahil\ Veeravalli)\r\n\ @version\ (9/18/2022)\r\n
+comment1.params=
+comment1.target=Expansion()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=s
+comment2.target=void\ expand(java.lang.String)
+numComments=3
